@@ -1,0 +1,13 @@
+Hola bienvenido a lluvia estelar!!!
+
+Pasos a seguir:
+
+1.-Preciona las teclas windows + 'r', luego enter, escribe:
+
+pip install pygame
+
+2.-Preciona enter nuevamente y Disfruta del juego.
+
+
+Autor: 
+Paul Hidalgo, programador.
